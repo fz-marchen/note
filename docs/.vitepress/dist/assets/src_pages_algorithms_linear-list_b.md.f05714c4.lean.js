@@ -1,0 +1,1 @@
+import{o as t,c as r,b as a}from"./app.fc0a7899.js";const e='{"title":"动态顺序表","description":"","frontmatter":{},"relativePath":"src/pages/algorithms/linear-list/b.md","lastUpdated":1622082668000}',i={},s=a("h1",{id:"动态顺序表"},"动态顺序表",-1);i.render=function(a,e,i,o,l,n){return t(),r("div",null,[s])};export default i;export{e as __pageData};

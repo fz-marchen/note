@@ -1,0 +1,1 @@
+import{o as l,c as i,a as t}from"./app.fc0a7899.js";const a='{"title":"arithmetic","description":"","frontmatter":{},"headers":[{"level":3,"title":"数据结构","slug":"数据结构"}],"relativePath":"src/pages/algorithms/index.md","lastUpdated":1622082668000}',e={},r=t('',3);e.render=function(t,a,e,s,h,p){return l(),i("div",null,[r])};export default e;export{a as __pageData};

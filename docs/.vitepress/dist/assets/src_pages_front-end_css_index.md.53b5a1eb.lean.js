@@ -1,0 +1,1 @@
+import{o as t,c as s,b as e}from"./app.fc0a7899.js";const r='{"title":"css","description":"","frontmatter":{},"relativePath":"src/pages/front-end/css/index.md","lastUpdated":1622082668000}',a={},n=e("h1",{id:"css"},"css",-1);a.render=function(e,r,a,c,d,o){return t(),s("div",null,[n])};export default a;export{r as __pageData};

@@ -1,0 +1,1 @@
+import{o as e,c as t,b as r}from"./app.fc0a7899.js";const a='{"title":"Hello 链队","description":"","frontmatter":{},"relativePath":"src/pages/algorithms/queues/b.md","lastUpdated":1622082668000}',l={},o=r("h1",{id:"hello-链队"},"Hello 链队",-1);l.render=function(r,a,l,s,i,d){return e(),t("div",null,[o])};export default l;export{a as __pageData};

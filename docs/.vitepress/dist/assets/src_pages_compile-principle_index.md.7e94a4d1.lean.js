@@ -1,0 +1,1 @@
+import{o as e,c as i,b as p}from"./app.fc0a7899.js";const r='{"title":"compile-principle","description":"","frontmatter":{},"relativePath":"src/pages/compile-principle/index.md","lastUpdated":1622082668000}',t={},c=p("h1",{id:"compile-principle"},"compile-principle",-1);t.render=function(p,r,t,l,n,o){return e(),i("div",null,[c])};export default t;export{r as __pageData};

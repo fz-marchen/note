@@ -1,0 +1,1 @@
+import{o as t,c as s,b as a}from"./app.fc0a7899.js";const e='{"title":"Hello stacks","description":"","frontmatter":{},"relativePath":"src/pages/algorithms/stacks/index.md","lastUpdated":1622082668000}',r={},l=a("h1",{id:"hello-stacks"},"Hello stacks",-1);r.render=function(a,e,r,o,c,i){return t(),s("div",null,[l])};export default r;export{e as __pageData};

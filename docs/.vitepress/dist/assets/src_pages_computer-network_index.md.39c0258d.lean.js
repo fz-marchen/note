@@ -1,0 +1,1 @@
+import{o as t,c as e,b as r}from"./app.fc0a7899.js";const o='{"title":"computer-network","description":"","frontmatter":{},"relativePath":"src/pages/computer-network/index.md","lastUpdated":1622082668000}',n={},a=r("h1",{id:"computer-network"},"computer-network",-1);n.render=function(r,o,n,p,c,d){return t(),e("div",null,[a])};export default n;export{o as __pageData};

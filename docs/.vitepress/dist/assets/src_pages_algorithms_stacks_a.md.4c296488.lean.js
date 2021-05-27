@@ -1,0 +1,1 @@
+import{o as t,c as e,b as a}from"./app.fc0a7899.js";const r='{"title":"Hello 顺序","description":"","frontmatter":{},"relativePath":"src/pages/algorithms/stacks/a.md","lastUpdated":1622082668000}',l={},o=a("h1",{id:"hello-顺序"},"Hello 顺序",-1);l.render=function(a,r,l,s,i,d){return t(),e("div",null,[o])};export default l;export{r as __pageData};

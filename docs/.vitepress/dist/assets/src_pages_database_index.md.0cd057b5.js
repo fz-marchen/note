@@ -1,0 +1,1 @@
+import{o as a,c as t,b as e}from"./app.fc0a7899.js";const d='{"title":"database","description":"","frontmatter":{},"relativePath":"src/pages/database/index.md","lastUpdated":1622082668000}',r={},s=e("h1",{id:"database"},"database",-1);r.render=function(e,d,r,i,n,o){return a(),t("div",null,[s])};export default r;export{d as __pageData};

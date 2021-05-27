@@ -1,0 +1,1 @@
+import{o as t,c as e,b as o}from"./app.fc0a7899.js";const r='{"title":"os","description":"","frontmatter":{},"relativePath":"src/pages/os/index.md","lastUpdated":1622082668000}',s={},a=o("h1",{id:"os"},"os",-1);s.render=function(o,r,s,d,i,n){return t(),e("div",null,[a])};export default s;export{r as __pageData};

@@ -1,0 +1,1 @@
+import{o as t,c as a,b as e}from"./app.fc0a7899.js";const r='{"title":"math","description":"","frontmatter":{},"relativePath":"src/pages/math/index.md","lastUpdated":1622082668000}',d={},i=e("h1",{id:"math"},"math",-1);d.render=function(e,r,d,n,o,s){return t(),a("div",null,[i])};export default d;export{r as __pageData};

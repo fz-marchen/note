@@ -1,0 +1,1 @@
+import{o as t,c as a,b as e}from"./app.fc0a7899.js";const r='{"title":"c","description":"","frontmatter":{},"relativePath":"src/pages/math/c.md","lastUpdated":1622082668000}',c={},o=e("h1",{id:"c"},"c",-1);c.render=function(e,r,c,s,d,i){return t(),a("div",null,[o])};export default c;export{r as __pageData};

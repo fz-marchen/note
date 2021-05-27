@@ -1,0 +1,1 @@
+import{o as a,c as e,b as t}from"./app.fc0a7899.js";const r='{"title":"Hello java","description":"","frontmatter":{},"relativePath":"src/pages/back-end/index.md","lastUpdated":1622082668000}',l={},o=t("h1",{id:"hello-java"},"Hello java",-1);l.render=function(t,r,l,d,n,i){return a(),e("div",null,[o])};export default l;export{r as __pageData};

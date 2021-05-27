@@ -1,0 +1,1 @@
+import{o as e,c as t,b as r}from"./app.fc0a7899.js";const s='{"title":"Hello queues","description":"","frontmatter":{},"relativePath":"src/pages/algorithms/queues/index.md","lastUpdated":1622082668000}',a={},l=r("h1",{id:"hello-queues"},"Hello queues",-1);a.render=function(r,s,a,o,u,i){return e(),t("div",null,[l])};export default a;export{s as __pageData};
