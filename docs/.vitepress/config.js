@@ -17,64 +17,59 @@ module.exports = {
 
     },
     nav: [ 
-      
-      // 导航栏配置
       {text: '首页', link: '/' },
-
       {
         text: '笔记', 
-        link: '/src/pages/note/',
+        link: '/pages/note/',
         items: [
           {
             text: '数学', 
-            link: '/src/pages/math/',
-            
+            link: '/pages/math/',
+
           },
           {
             text: '数据结构和算法', 
-            link: '/src/pages/algorithms/',
+            link: '/pages/algorithms/',
             
           },
           {
             text: '编译原理', 
-            link: '/src/pages/compile-principle/',
+            link: '/pages/compile-principle/',
             
           },
           {
             text: '计算机组成', 
-            link: '/src/pages/computer-organization/',
+            link: '/pages/computer-organization/',
             
           },
           {
             text: '操作系统', 
-            link: '/src/pages/os/',
+            link: '/pages/os/',
             
           },
           
           {
             text: '计算机网络', 
-            link: '/src/pages/computer-network/',
+            link: '/pages/computer-network/',
             
           },
           {
             text: '数据库', 
-            link: '/src/pages/database/',
+            link: '/pages/database/',
             
           },
           {
             text: '前端', 
-            link: '/src/pages/front-end/',
+            link: '/pages/front-end/',
             
           },
           {
             text: '后端', 
-            link: '/src/pages/back-end/',
+            link: '/pages/back-end/',
           },
           
         ]
       },
-      
-      
     ],
     //   侧边导航
     sidebar: routers,
